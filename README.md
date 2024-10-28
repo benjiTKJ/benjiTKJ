@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/benjamin-tan-3a9887b6/">
+    <a href="https://www.linkedin.com/in/benjamin-tan-3a9887b6/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
 </p>
