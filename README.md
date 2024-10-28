@@ -1,14 +1,16 @@
-<div id="header" align="center">
+<p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2pweTdzdDA2M3FtYTM0dTA5cmN1NWlqdnYwbGl2cDgwMmt3cHp2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vqxviVfqGAa14SgeiC/giphy.gif" width="100"/>
-</div>
+</p>
 
-<div id="badges">
+<p align="center">
     <a href="https://www.linkedin.com/in/benjamin-tan-3a9887b6/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-</div>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=benjiTKJ&style=flat-square&color=blue" alt=""/>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=benjiTKJ&style=flat-square&color=blue" alt="" align="center"/>
+</p>
 
 <h1>
   hey there
@@ -16,18 +18,16 @@
 </h1>
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmkyYmJwaDMwcWZnNTh0dnB0MHlrd3RqYTFiNmJ2bGVjZ3ZleXlnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif" width="600" height="300"/>
+  <img src="https://ih1.redbubble.net/image.492748374.0692/st,small,507x507-pad,600x600,f8f8f8.u1.jpg" width="507" height="507"/>
 </div>
 
 ---
 
 ### :male_detective: About Me:
 
-I am a DevOps Engineer 
-
 - :zap: I'm currently working as a DevOps engineer with experience in AWS cloud :cloud:
 - :weight_lifting: Im currently working on a personal projects around revolutionizing travel planning  as well a personal project around generating meal ideas for home cooking
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-tan-3a9887b6/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-tan-3a9887b6/)
 
 ---
 
