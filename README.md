@@ -66,13 +66,13 @@
 
 <div>
     <a href="https://www.credly.com/badges/f52e7ee4-ed39-41b0-842f-b3feb1c542ef/public_url">
-        <img src="https://images.credly.com/size/680x680/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" title="CKAD: Certified Kubernetes Application Developer" alt="CKAD" width="40" height="40">&nbsp;
+        <img src="https://images.credly.com/size/680x680/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" title="CKAD: Certified Kubernetes Application Developer" alt="CKAD" width="100" height="100">&nbsp;
     </a>
     <a href="https://www.credly.com/badges/bc5cbab1-f54f-4322-a212-094f6ea51f36/public_url">
-        <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" title="AWS Certified Solutions Architect – Associate" alt="SAA-C03" width="40" height="40">&nbsp;
+        <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" title="AWS Certified Solutions Architect – Associate" alt="SAA-C03" width="100" height="100">&nbsp;
     </a>
     <a href="https://www.credly.com/badges/5e37d1c8-6f5f-40a9-9dd7-66996a8cbf5f/public_url">
-        <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" title="AWS Certified Cloud Practitioner" alt="CLF-C02" width="40" height="40">&nbsp;
+        <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" title="AWS Certified Cloud Practitioner" alt="CLF-C02" width="100" height="100">&nbsp;
     </a>
 </div>
 
